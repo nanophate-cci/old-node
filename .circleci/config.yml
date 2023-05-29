@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   node-test:
     docker:
-      - image: node:4.4.6
+      - image: cimg/node:20.2.0
     resource_class: 'medium+'
     steps:
       - checkout
