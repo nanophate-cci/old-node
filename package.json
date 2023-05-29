@@ -3,7 +3,6 @@
     "version": "0.0.0",
     "dependencies": {},
     "devDependencies": {
-      "bower": "~1.8.14",
       "connect-livereload": "~0.2.0",
       "grunt": "~0.4.5",
       "grunt-bower-requirejs": "~0.7.1",
